@@ -14,8 +14,9 @@ public class Main {
 		System.out.println("car speed is"
 				+ car.speed);
 		System.out.println("truck speed is"
-				+ car.speed);
+				+ truck.speed);
 
 	}
 
 }
+
